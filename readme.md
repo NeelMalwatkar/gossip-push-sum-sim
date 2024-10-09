@@ -1,7 +1,7 @@
 # Gossip and Push-Sum Simulator using Pony
 
 This project implements a simulator for Gossip and Push-Sum algorithms in distributed systems using the Pony programming language. The simulator supports various network topologies and allows for the comparison of convergence times between different algorithms and topologies.<br>
-This simulator provides a flexible platform for studying the behavior of Gossip and Push-Sum algorithms across various network topologies. By adjusting the input parameters, researchers and students can gain insights into the convergence properties and efficiency of these distributed algorithms.
+It also provides a flexible platform for studying the behavior of Gossip and Push-Sum algorithms across various network topologies. By adjusting the input parameters, researchers and students can gain insights into the convergence properties and efficiency of these distributed algorithms.
 
 ## Table of Contents
 
@@ -50,7 +50,7 @@ The simulator supports four network topologies:
 1. **Full**: Every node is connected to every other node.
 2. **Line**: Nodes are arranged in a line, each connected to its immediate neighbors.
 3. **3D Grid**: Nodes are arranged in a three-dimensional grid.
-4. **Imperfect 3D Grid**: A 3D grid with additional random connections.
+4. **Imperfect 3D Grid**: A 3D grid with an additional random connection.
 
 ## Algorithms
 
@@ -119,8 +119,8 @@ The program outputs:
 
 ## Authors
 ```
-Neel Malwatkar - UFID: 68517665
-Nirvisha Soni  - UFID: 47638268
+Neel Malwatkar
+Nirvisha Soni 
 ```
 ---
 
