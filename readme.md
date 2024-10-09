@@ -96,7 +96,7 @@ A utility class for selecting random nodes.
 
 To run the simulator, use the following command:
 ```bash
-    ./pony_simulator <num_nodes> <topology> <algorithm>
+    ./gossip-push-sum-sim <num_nodes> <topology> <algorithm>
 ```
 
 ## Input
